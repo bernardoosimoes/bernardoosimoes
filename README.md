@@ -1,7 +1,7 @@
 ### Hello. I am Bernardo 🧑‍💻
 
 <a href="https://www.linkedin.com/in/bernardo-simões/">
-  <img align="left" alt="Bernardo's LinkdeIn" width="22px" src="[https://svgshare.com/getbyhash/sha1-1SgcmpJ5dTScRG+O7dBvkVK4vT0=](https://www.svgrepo.com/svg/37273/linkedin)" />
+  <img align="left" alt="Bernardo's LinkdeIn" width="22px" src="https://www.svgrepo.com/svg/37273/linkedin"/>
 </a>
 <a href="https://github.com/bernardoosimoes">
   <img align="left" alt="Bernardo's Github" width="22px" src="https://svgshare.com/getbyhash/sha1-9/sua5CUwRPeE2nhDk0E9mvI8iY=" />
