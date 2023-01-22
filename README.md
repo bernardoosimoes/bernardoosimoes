@@ -1,15 +1,15 @@
 ### Hello. I am Bernardo 🧑‍💻
 
 <a href="https://www.linkedin.com/in/bernardo-simões/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=C67F55 alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=85827f alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/bernardoosimoes" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%231E77B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=C67F55 alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%231E77B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=85827f alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://github.com/bernardoosimoes" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e?&style=for-the-badge&logo=github&logoColor=white&color=C67F55 alt=website style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e?&style=for-the-badge&logo=github&logoColor=white&color=85827f alt=website style="margin-bottom: 5px;" />
 </a>
 
 <br />
