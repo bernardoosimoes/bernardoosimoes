@@ -15,6 +15,7 @@
 
 #### About
 
+- 🧑‍💻 Backend Developer
 - ⚡️ Currently working with **APIGee**
 - 💻 Master's Degree student in Informatic @ Faculdade Ciências - University of Lisbon
 - 🏗️ Master's Degree in Industrial Engineering and Management @ University of Aveiro
