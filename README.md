@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://www.instagram.com/bernardoosimoes" target="_blank">
-<img src=https://img.shields.io/badge/medium-%231E77B5.svg?&style=for-the-badge&logo=medium&logoColor=white&color=C67F55 alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%231E77B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=C67F55 alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://github.com/bernardoosimoes" target="_blank">
