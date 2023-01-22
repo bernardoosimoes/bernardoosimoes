@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @bernardoosimoes
-- 👀 I’m interested in tech and coding
-- 🌱 I’m currently learning Python and Agile
-- 💞️ I’m looking to collaborate on new open projects
-- 📫 How to reach me bernardo.dias.simoes@gmail.com
+### Hello. I am Bernardo 🧑‍💻
 
-<!---
-bernardoosimoes/bernardoosimoes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://www.linkedin.com/in/bernardo-simões/">
+  <img align="left" alt="Bernardo's LinkdeIn" width="22px" src="https://svgshare.com/getbyhash/sha1-1SgcmpJ5dTScRG+O7dBvkVK4vT0=" />
+</a>
+<a href="https://github.com/bernardoosimoes">
+  <img align="left" alt="Bernardo's Github" width="22px" src="https://svgshare.com/getbyhash/sha1-9/sua5CUwRPeE2nhDk0E9mvI8iY=" />
+</a>
+<a href="https://www.instagram.com/bernardoosimoes/">
+  <img align="left" alt="Bernardo's Instagram" width="22px" src="https://svgshare.com/getbyhash/sha1-XC6soy1anvYp+2MGnaEHxExdQLw=" />
+</a>
+
+<br />
+<br />
+
+#### About
+
+- ⚡️ Currently working with **APIGee**
+- 💻 Master's Degree student in Informatic @ Faculdade Ciências - University of Lisbon
+- 🏗️ Master's Degree in Industrial Engineering and Management @ University of Aveiro
+- 📫 From Portugal
+- 💾 Tech geek
+- 🎮 Gaming lover
+- ⚽️ Sports lover
+
+
+
+
+#### Languages and Frameworks
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></code>
