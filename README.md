@@ -31,6 +31,9 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Apigee_logo.svg"></code>
+<code><img height="25" src="https://pluralsight2.imgix.net/paths/images/google-cloud-5a9656af80.png"></code>
+<code><img height="25" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png"></code>
+<code><img height="25" src="https://jmeter.apache.org/images/jmeter_square.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg"></code>
